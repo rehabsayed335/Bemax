@@ -1,1 +1,3 @@
 # Bemax
+
+## project notes
